@@ -1,4 +1,4 @@
-name = input("이름 입력 : ")
+name = input("성명 입력 : ")
 print(name)
 
 try :
